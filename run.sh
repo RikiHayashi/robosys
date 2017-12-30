@@ -1,4 +1,4 @@
-#!/bin/bash -eu
+#! /bin/sh
 
 while true; do
 	cat /dev/sw_dev0 > /dev/sw_dev0
